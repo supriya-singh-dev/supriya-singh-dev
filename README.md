@@ -3,7 +3,7 @@
 **Software Engineer | ML | Data Engineering | AI**
 
 📍 Mumbai, India
-💼 1+ year at HERE Technologies
+💼 1 year at HERE Technologies
 🚀 Building AI solutions with Python, LangChain & AWS
 
 ## 🔧 Tech Stack
